@@ -1,3 +1,5 @@
+- Describe that a pathway story consists of a pathway diagram and an interactive description somewhere in the intro.
+
 # Discussion
 
 ## WikiPathways styling
